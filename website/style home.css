@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0px 0px 300px 0px;
+    background-color: rgb(243, 243, 172); 
+}
+
+h2{
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 1200px;
+    height: 280px;
+}
+
+.d1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: maroon;height: 20px;
+    padding: 10px;
+}
+
+.image_container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    width:640px; 
+    height:480px;
+}
